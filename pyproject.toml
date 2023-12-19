@@ -2,7 +2,7 @@
 name = "cargo_management"
 description = "ERPNext Cargo Management for Freight Forwarders"
 authors = [
-    { name = "Agile Shift", email = "contacto@gruporeal.org" }
+    { name = "Ian K", email = "resa.workout@gmail.com" }
 ]
 
 requires-python = ">=3.11"
